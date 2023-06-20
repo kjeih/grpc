@@ -1,5 +1,5 @@
 # grpc
-Websocket and API
+Subscribe and API
 
 ## install
 ```

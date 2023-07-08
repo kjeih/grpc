@@ -1,5 +1,5 @@
 # grpc
-Subscribe and API
+Simple GRPC server and client for Subscribing and api endpoint
 
 ## install
 ```
